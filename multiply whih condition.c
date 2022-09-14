@@ -1,3 +1,4 @@
+// Fuad Khan
 #include<stdio.h>
 int main(){
     int m, n, p, q, i, j, k;
